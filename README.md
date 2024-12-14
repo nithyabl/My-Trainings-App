@@ -17,7 +17,7 @@ To run the app on your local machine, follow these steps:
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/yourusername/my_trainings_app.git
+   git clone https://github.com/nithyabl/My-Trainings-App.git
    ```
 2. **Install Dependencies**:
    ```bash
