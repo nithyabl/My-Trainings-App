@@ -27,3 +27,7 @@ To run the app on your local machine, follow these steps:
    ```bash
    flutter run
    ```
+
+## Video Recording
+
+[Watch the video](https://drive.google.com/file/d/1XSHMfb3ZVHd5zIyBneDjcuUmYDE4UWyL/view?usp=drivesdk)
