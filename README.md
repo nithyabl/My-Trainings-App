@@ -20,10 +20,16 @@ To run the app on your local machine, follow these steps:
    git clone https://github.com/nithyabl/My-Trainings-App.git
    ```
 2. **Install Dependencies**:
+
    ```bash
    flutter pub get
    ```
-3. **Run the app**:
+
+3. **Run the following command to automate the process of generating boilerplate code.**:
+   ```bash
+   dart run build_runner build --delete-conflicting-outputs
+   ```
+4. **Run the app**:
    ```bash
    flutter run
    ```
